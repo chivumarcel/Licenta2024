@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ChatAssistant</title>
+    <style>
+        #chat-container {
+            width: 500px;
+            margin: 0 auto;
+            padding-top: 50px;
+        }
+        #messages {
+            border: 1px solid #ccc;
+            padding: 10px;
+            height: 300px;
+            overflow-y: scroll;
+            margin-bottom: 10px;
+        }
+        #user-input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="chat-container">
+        <div id="messages"></div>
+        <input type="text" id="user-input" placeholder="Introduceti un mesaj..." />
+        <button onclick="sendMessage()">Send</button>
+    </div>
+    <script>
+        async function sendMessage() {
+            const userInput = document.getElementById("user-input").value;
+            const response = await fetch("http://127.0.0.1:5000/chat", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ message: userInput })
+            });
+            const data = await response.json();
+            const messagesDiv = document.getElementById("messages");
+            messagesDiv.innerHTML += `<p><strong>You:</strong> ${userInput}</p>`;
+            messagesDiv.innerHTML += `<p><strong>Bot:</strong> ${data.response}</p>`;
+            document.getElementById("user-input").value = "";
+        }
+    </script>
+</body>
+</html>
