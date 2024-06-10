@@ -1,8 +1,13 @@
 from openai import OpenAI
 import gradio as gr
+import os
 import PyPDF2
+from dotenv import load_dotenv
 
-api_key = "sk-proj-mcgXgPyztA6SH11UGkcCT3BlbkFJqECpgt5wEm3Ri6e1WqhA"  #
+load_dotenv()
+
+api_key = os.getenv("OPENAI_API_KEY")
+
 client = OpenAI(api_key=api_key)
 def predict(message, history):
     history_openai_format = []
