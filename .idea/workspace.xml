@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce3af9e8-927d-470e-a392-650133c93d1c" name="Changes" comment="implementat preluare API din .env, mutat fisierele din assets">
-      <change beforePath="$PROJECT_DIR$/v01/ChatAssistant-v01.py" beforeDir="false" afterPath="$PROJECT_DIR$/v01/ChatAssistant-v01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v01/ChatAssistant-v02.py" beforeDir="false" afterPath="$PROJECT_DIR$/v01/ChatAssistant-v02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v01/ChatAssistant-v03.py" beforeDir="false" afterPath="$PROJECT_DIR$/v01/ChatAssistant-v03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v02/Backend.py" beforeDir="false" afterPath="$PROJECT_DIR$/v02/Backend.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v02/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/v02/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "chivumarcel"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;chivumarcel&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/chivumarcel/Licenta2024.git",
+    "url": "https://github.com/chivumarcel/Licenta-2024.git",
     "accountId": "31a11b5c-1ee0-419f-a917-756117e60df8"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2heLMezHQes2oJs9sUIXNROQqtN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,7 +51,7 @@
     "Python.ChatAssistant-v01.executor": "Run",
     "Python.ChatAssistant-v02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
