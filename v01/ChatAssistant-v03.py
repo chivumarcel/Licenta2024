@@ -1,5 +1,4 @@
 import openai
-from openai import OpenAI
 import gradio as gr
 
 import os
@@ -8,8 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 api_key = os.getenv("OPENAI_API_KEY")
-
-client = OpenAI(api_key=api_key)
+openai.api_key = api_key  # setez cheia API global
 
 def generate_response(user_input):
     response = openai.ChatCompletion.create(
@@ -21,7 +19,7 @@ def generate_response(user_input):
     )
     return response.choices[0].message['content']
 
-# crearea interfetei cu gradio
+# Crearea interfeței cu Gradio
 iface = gr.Interface(
     fn=generate_response,
     inputs="text",
