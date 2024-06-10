@@ -4,7 +4,7 @@ import openai
 from v02.ExtractData import cleaned_texts
 
 app = Flask(__name__)
-openai.api_key = 'sk-proj-mcgXgPyztA6SH11UGkcCT3BlbkFJqECpgt5wEm3Ri6e1WqhA'
+openai.api_key = '##'
 
 @app.route("/chat", methods=["POST"])
 def chat():

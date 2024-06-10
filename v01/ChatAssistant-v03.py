@@ -1,8 +1,15 @@
 import openai
+from openai import OpenAI
 import gradio as gr
 
-# configurare cheie API
-openai.api_key = 'sk-proj-mcgXgPyztA6SH11UGkcCT3BlbkFJqECpgt5wEm3Ri6e1WqhA'
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+api_key = os.getenv("OPENAI_API_KEY")
+
+client = OpenAI(api_key=api_key)
 
 def generate_response(user_input):
     response = openai.ChatCompletion.create(

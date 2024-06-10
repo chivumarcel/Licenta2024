@@ -1,7 +1,7 @@
 from openai import OpenAI
 import gradio as gr
-import os
 import PyPDF2
+import os
 from dotenv import load_dotenv
 
 load_dotenv()

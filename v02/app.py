@@ -4,7 +4,7 @@ import fitz  # PyMuPDF
 import re
 
 app = Flask(__name__)
-openai.api_key = 'sk-proj-mcgXgPyztA6SH11UGkcCT3BlbkFJqECpgt5wEm3Ri6e1WqhA'
+openai.api_key = '##'
 
 def extract_text_from_pdf(pdf_path):
     doc = fitz.open(pdf_path)
