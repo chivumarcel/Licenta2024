@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce3af9e8-927d-470e-a392-650133c93d1c" name="Changes" comment="implementat preluare API din .env, mutat fisierele din assets, eliminat API KEY, refactorizez">
-      <change afterPath="$PROJECT_DIR$/v03/playground/demo_simple01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ce3af9e8-927d-470e-a392-650133c93d1c" name="Changes" comment="implementat preluare API din .env, mutat fisierele din assets">
+      <change beforePath="$PROJECT_DIR$/v01/ChatAssistant-v01.py" beforeDir="false" afterPath="$PROJECT_DIR$/v01/ChatAssistant-v01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/v01/ChatAssistant-v02.py" beforeDir="false" afterPath="$PROJECT_DIR$/v01/ChatAssistant-v02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/v01/ChatAssistant-v03.py" beforeDir="false" afterPath="$PROJECT_DIR$/v01/ChatAssistant-v03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v02/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/v02/Frontend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v02/Backend.py" beforeDir="false" afterPath="$PROJECT_DIR$/v02/Backend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v02/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/v02/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;chivumarcel&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "chivumarcel"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/chivumarcel/Licenta-2024.git&quot;,
-    &quot;accountId&quot;: &quot;31a11b5c-1ee0-419f-a917-756117e60df8&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/chivumarcel/Licenta2024.git",
+    "accountId": "31a11b5c-1ee0-419f-a917-756117e60df8"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2heLMezHQes2oJs9sUIXNROQqtN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,18 +52,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Backend.executor": "Run",
     "Python.ChatAssistant-v01.executor": "Run",
     "Python.ChatAssistant-v02.executor": "Run",
-    "Python.ChatAssistant-v03.executor": "Run",
-    "Python.Comments.executor": "Run",
-    "Python.Frontend.executor": "Run",
-    "Python.Lists.executor": "Run",
-    "Python.SetsAndTuples.executor": "Run",
-    "Python.StringFormatting.executor": "Run",
-    "Python.UserInput.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.refresh.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -76,135 +66,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/v01" />
+      <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunManager" selected="Python.SetsAndTuples">
-    <configuration name="Comments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Licenta2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/v99-PythonRefresher/Comments" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v99-PythonRefresher/Comments/Comments.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Licenta2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/v99-PythonRefresher/Lists" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v99-PythonRefresher/Lists/Lists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SetsAndTuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Licenta2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/v99-PythonRefresher/Sets and Tuples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v99-PythonRefresher/Sets and Tuples/SetsAndTuples.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="StringFormatting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Licenta2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/v99-PythonRefresher/String Formatting" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v99-PythonRefresher/String Formatting/StringFormatting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="UserInput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Licenta2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/v99-PythonRefresher/User Input" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v99-PythonRefresher/User Input/UserInput.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.SetsAndTuples" />
-        <item itemvalue="Python.- Lists" />
-        <item itemvalue="Python.UserInput" />
-        <item itemvalue="Python.StringFormatting" />
-        <item itemvalue="Python.Comments" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -223,11 +87,6 @@
       <option name="presentableId" value="Default" />
       <updated>1717949549449</updated>
       <workItem from="1717949551385" duration="5765000" />
-      <workItem from="1718111886976" duration="874000" />
-      <workItem from="1719036447699" duration="1605000" />
-      <workItem from="1719040866438" duration="2912000" />
-      <workItem from="1719321374525" duration="6576000" />
-      <workItem from="1719402673139" duration="4881000" />
     </task>
     <task id="LOCAL-00001" summary="implementat preluare API din .env, mutat fisierele din assets">
       <option name="closed" value="true" />
@@ -268,17 +127,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="implementat preluare API din .env, mutat fisierele din assets" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Licenta2024$UserInput.coverage" NAME="UserInput Coverage Results" MODIFIED="1719411480849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/User Input" />
-    <SUITE FILE_PATH="coverage/Licenta2024$ChatAssistant_v03.coverage" NAME="ChatAssistant-v03 Coverage Results" MODIFIED="1719323431658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v01" />
-    <SUITE FILE_PATH="coverage/Licenta2024$Lists.coverage" NAME="Lists Coverage Results" MODIFIED="1719412103170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Lists" />
-    <SUITE FILE_PATH="coverage/Licenta2024$Comments.coverage" NAME="Comments Coverage Results" MODIFIED="1719409522121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Comments" />
-    <SUITE FILE_PATH="coverage/Licenta2024$Frontend.coverage" NAME="Frontend Coverage Results" MODIFIED="1719322838825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v02" />
-    <SUITE FILE_PATH="coverage/Licenta2024$Backend.coverage" NAME="Backend Coverage Results" MODIFIED="1719322803743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v02" />
-    <SUITE FILE_PATH="coverage/Licenta2024$app.coverage" NAME="app Coverage Results" MODIFIED="1719322758443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v02" />
     <SUITE FILE_PATH="coverage/Licenta2024$ChatAssistant_v01.coverage" NAME="ChatAssistant-v01 Coverage Results" MODIFIED="1718004738239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v01" />
-    <SUITE FILE_PATH="coverage/Licenta2024$refresh.coverage" NAME="refresh Coverage Results" MODIFIED="1719335123140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v03/playground" />
-    <SUITE FILE_PATH="coverage/Licenta2024$ChatAssistant_v02.coverage" NAME="ChatAssistant-v02 Coverage Results" MODIFIED="1719323719021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v01" />
-    <SUITE FILE_PATH="coverage/Licenta2024$StringFormatting.coverage" NAME="StringFormatting Coverage Results" MODIFIED="1719410085735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/String Formatting" />
-    <SUITE FILE_PATH="coverage/Licenta2024$SetsAndTuples.coverage" NAME="SetsAndTuples Coverage Results" MODIFIED="1719412908516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Sets and Tuples" />
+    <SUITE FILE_PATH="coverage/Licenta2024$ChatAssistant_v02.coverage" NAME="ChatAssistant-v02 Coverage Results" MODIFIED="1718003891702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v01" />
   </component>
 </project>
