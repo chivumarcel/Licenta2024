@@ -39,6 +39,14 @@ async def read_asset(asset_title: str):
         if asset.get('title').casefold() == asset_title.casefold():
             return asset
 
+@app.get('/assets/{asset_title}')
+async def read_asset(asset_title: str, categpory:str):
+    assets_to_return = []
+    for asset in ASSETS:
+        if asset.get('title').casefold() == asset_title.casefold() and asset.get('category').casefold() == categpory.casefold():
+            assets_to_return.append(asset)
+    return assets_to_return
+
 @app.get('/assets/')
 async def read_category_by_query(category: str):
     assets_to_return = []
