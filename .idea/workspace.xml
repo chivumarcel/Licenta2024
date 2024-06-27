@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce3af9e8-927d-470e-a392-650133c93d1c" name="Changes" comment="update 27.06.2024">
-      <change beforePath="$PROJECT_DIR$/.idea/Licenta2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Licenta2024.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ce3af9e8-927d-470e-a392-650133c93d1c" name="Changes" comment="update 27.06.2024, 22:30 updates assets">
       <change beforePath="$PROJECT_DIR$/fastapi/assets.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/assets.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -272,7 +269,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719501409259</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update 27.06.2024, 22:30 updates assets">
+      <option name="closed" value="true" />
+      <created>1719517141509</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719517141509</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update 27.06.2024, 22:30 updates assets">
+      <option name="closed" value="true" />
+      <created>1719517158387</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719517158387</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +309,8 @@
     <MESSAGE value="Resolved conflicts in workspace.xml" />
     <MESSAGE value="update 26.06.2024" />
     <MESSAGE value="update 27.06.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 27.06.2024" />
+    <MESSAGE value="update 27.06.2024, 22:30 updates assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 27.06.2024, 22:30 updates assets" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Licenta2024$DictionaryAssignment.coverage" NAME="DictionaryAssignment Coverage Results" MODIFIED="1719482873648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Dictionaries Assignment" />
