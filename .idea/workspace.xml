@@ -5,7 +5,703 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce3af9e8-927d-470e-a392-650133c93d1c" name="Changes" comment="update 27.06.2024, 22:30 updates assets">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/assets/WF_RAC-INSTALLATION-MANUAL_english-v2test.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/bin/distro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/bin/openai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/bin/tqdm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles-24.1.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles-24.1.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles-24.1.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles-24.1.0.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles-24.1.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles-24.1.0.dist-info/licenses/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles-24.1.0.dist-info/licenses/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles/os.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles/ospath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles/tempfile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles/tempfile/temptypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles/threadpool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles/threadpool/binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles/threadpool/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiofiles/threadpool/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp-3.9.5.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp-3.9.5.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp-3.9.5.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp-3.9.5.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp-3.9.5.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp-3.9.5.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/.hash/_cparser.pxd.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/.hash/_find_header.pxd.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/.hash/_helpers.pyi.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/.hash/_helpers.pyx.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/.hash/_http_parser.pyx.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/.hash/_http_writer.pyx.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/.hash/_websocket.pyx.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/.hash/hdrs.py.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/_cparser.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/_find_header.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/_headers.pxi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/_helpers.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/_helpers.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/_helpers.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/_http_parser.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/_http_parser.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/_http_writer.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/_http_writer.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/_websocket.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/_websocket.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/base_protocol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/client_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/client_proto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/client_reqrep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/client_ws.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/compression_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/connector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/cookiejar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/formdata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/hdrs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/http_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/http_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/http_websocket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/http_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/locks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/multipart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/payload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/payload_streamer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/pytest_plugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/resolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/streams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/tcp_helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/tracing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/typedefs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_fileresponse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_protocol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_routedef.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_urldispatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/web_ws.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiohttp/worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiosignal-1.3.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiosignal-1.3.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiosignal-1.3.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiosignal-1.3.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiosignal-1.3.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiosignal-1.3.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiosignal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiosignal/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/aiosignal/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/_cmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/_cmp.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/_funcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/_make.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/_next_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/_typing_compat.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/_version_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/_version_info.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/converters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/converters.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/exceptions.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/filters.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/setters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/setters.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attr/validators.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs-23.2.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs-23.2.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs-23.2.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs-23.2.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs-23.2.0.dist-info/licenses/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs/converters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs/setters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/attrs/validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer-3.3.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer-3.3.2.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer-3.3.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer-3.3.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer-3.3.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer-3.3.2.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer-3.3.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/cd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/cli/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/constant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/legacy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/md.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/md__mypyc.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/charset_normalizer/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/distro-1.9.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/distro-1.9.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/distro-1.9.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/distro-1.9.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/distro-1.9.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/distro-1.9.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/distro-1.9.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/distro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/distro/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/distro/distro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/distro/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/frozenlist-1.4.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/frozenlist-1.4.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/frozenlist-1.4.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/frozenlist-1.4.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/frozenlist-1.4.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/frozenlist-1.4.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/frozenlist/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/frozenlist/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/frozenlist/_frozenlist.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/frozenlist/_frozenlist.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/frozenlist/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict-6.0.5.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict-6.0.5.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict-6.0.5.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict-6.0.5.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict-6.0.5.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict-6.0.5.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict/_abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict/_multidict.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict/_multidict_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict/_multidict_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/multidict/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai-0.28.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai-0.28.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai-0.28.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai-0.28.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai-0.28.0.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai-0.28.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai-0.28.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai-0.28.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai-0.28.0.dist-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/_openai_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_requestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/abstract/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/abstract/api_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/abstract/createable_api_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/abstract/deletable_api_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/abstract/engine_api_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/abstract/listable_api_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/abstract/nested_resource_class_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/abstract/paginatable_api_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/abstract/updateable_api_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/audio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/chat_completion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/completion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/deployment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/edit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/embedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/error_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/experimental/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/experimental/completion_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/fine_tune.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/fine_tuning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/api_resources/moderation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/datalib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/datalib/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/datalib/numpy_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/datalib/pandas_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/embeddings_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/object_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/openai_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/openai_response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/tests/asyncio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/tests/asyncio/test_endpoints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/tests/test_api_requestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/tests/test_endpoints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/tests/test_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/tests/test_file_cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/tests/test_long_examples_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/tests/test_url_composition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/tests/test_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/upload_progress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/openai/wandb_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.1.1.dist-info/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.1.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.1.1.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.1.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.1.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.1.1.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.1.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.1.1.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.1.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/index_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/_elffile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/_tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/styles/_mapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests-2.32.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests-2.32.3.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests-2.32.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests-2.32.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests-2.32.3.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests-2.32.3.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/requests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm-4.66.4.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm-4.66.4.dist-info/LICENCE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm-4.66.4.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm-4.66.4.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm-4.66.4.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm-4.66.4.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm-4.66.4.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/_dist_ver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/_tqdm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/_tqdm_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/_tqdm_notebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/_tqdm_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/asyncio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/auto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/autonotebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/completion.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/contrib/bells.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/contrib/concurrent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/contrib/discord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/contrib/itertools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/contrib/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/contrib/slack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/contrib/telegram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/contrib/utils_worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/dask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/keras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/notebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/rich.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/std.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/tk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/tqdm.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/tqdm/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3-2.2.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3-2.2.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3-2.2.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3-2.2.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3-2.2.2.dist-info/licenses/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/_base_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/_request_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/connectionpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/contrib/emscripten/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/contrib/emscripten/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/contrib/emscripten/emscripten_fetch_worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/contrib/emscripten/fetch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/contrib/emscripten/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/contrib/emscripten/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/contrib/socks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/filepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/http2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/poolmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/ssl_match_hostname.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/ssltransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/urllib3/util/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl-1.9.4.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl-1.9.4.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl-1.9.4.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl-1.9.4.dist-info/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl-1.9.4.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl-1.9.4.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl-1.9.4.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl/_quoting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl/_quoting_c.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl/_quoting_c.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl/_quoting_c.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl/_quoting_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl/_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/yarl/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai/chatbot01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai/main01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai/main02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai/templates/home02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Licenta2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Licenta2024.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fastapi/assets.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/assets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.0.dist-info/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.0.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.0.dist-info/REQUESTED" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.0.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip-24.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/__pip-runner__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/__pip-runner__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/build_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/build_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/autocompletion.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/autocompletion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/base_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/cmdoptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/cmdoptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/progress_bars.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/progress_bars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/req_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/cli/req_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/inspect.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/inspect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/install.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/show.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/uninstall.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/uninstall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/distributions/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/distributions/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/distributions/sdist.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/distributions/sdist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/distributions/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/distributions/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/index/collector.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/index/collector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/index/package_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/index/package_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/locations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/locations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/locations/_sysconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/locations/_sysconfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/metadata/_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/metadata/_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/metadata/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/metadata/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/_dists.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/_dists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/_envs.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/_envs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/metadata/pkg_resources.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/metadata/pkg_resources.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/candidate.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/candidate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/direct_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/direct_url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/link.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/scheme.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/scheme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/search_scope.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/search_scope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/selection_prefs.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/selection_prefs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/target_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/target_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/models/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/network/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/network/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/network/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/network/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/network/session.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/network/session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/build/build_tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/build/build_tracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/build/metadata_legacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/build/metadata_legacy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/build/wheel_legacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/build/wheel_legacy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/freeze.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/install/editable_legacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/install/editable_legacy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/install/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/install/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/prepare.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/req/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/req/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/req/constructors.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/req/constructors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/req/req_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/req/req_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/req/req_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/req/req_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/req/req_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/req/req_uninstall.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/legacy/resolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/legacy/resolver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/candidates.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/candidates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/provider.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/provider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/self_outdated_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/self_outdated_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/_jaraco_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/_jaraco_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/deprecation.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/deprecation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/direct_url_helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/direct_url_helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/hashes.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/subprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/subprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/unpacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/unpacking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/utils/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/vcs/bazaar.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/vcs/git.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/vcs/git.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/vcs/subversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/vcs/versioncontrol.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/vcs/versioncontrol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/wheel_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_internal/wheel_builder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/heuristics.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/certifi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/certifi/cacert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/certifi/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/cli/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/codingstatemachinedict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/johabfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/johabprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/langrussianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/langturkishmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/macromanprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/metadata/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/metadata/languages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/resultdict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/utf1632prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/chardet/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/ansi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/ansitowin32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/initialise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/tests/ansi_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/tests/ansitowin32_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/tests/initialise_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/tests/isatty_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/tests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/tests/winterm_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/colorama/winterm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/distlib/scripts.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/distlib/scripts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/distro/distro.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/distro/distro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/idna/codec.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/idna/codec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/idna/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/idna/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/idna/idnadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/idna/package_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/idna/package_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/idna/uts46data.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/idna/uts46data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/msgpack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/msgpack/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/msgpack/ext.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/msgpack/ext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/msgpack/fallback.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/msgpack/fallback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/_manylinux.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/_manylinux.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/_musllinux.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/_musllinux.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/markers.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/markers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/specifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/android.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/android.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/macos.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/macos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/unix.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/unix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/windows.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/platformdirs/windows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/cmdline.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/cmdline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/html.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/img.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/img.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/lexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/lexer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/_mapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/python.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/sphinxext.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/sphinxext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/style.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/style.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/styles/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/styles/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/token.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pygments/token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pyparsing/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pyparsing/actions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pyparsing/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pyparsing/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pyparsing/diagram/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pyparsing/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pyparsing/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pyparsing/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pyparsing/results.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pyparsing/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pyparsing/unicode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/pyparsing/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/__version__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/adapters.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/adapters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/cookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/cookies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/help.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/help.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/packages.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/packages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/sessions.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/status_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/status_codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/_cell_widths.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/_cell_widths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/_export_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/_export_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/_ratio.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/_ratio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/_windows.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/_windows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/_wrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/_wrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/align.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/align.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/bar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/box.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/box.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/cells.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/cells.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/color.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/color.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/containers.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/containers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/highlighter.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/highlighter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/json.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/layout.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/layout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/live.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/live.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/live_render.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/live_render.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/markup.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/markup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/panel.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/panel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/pretty.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/pretty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/progress.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/progress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/progress_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/progress_bar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/prompt.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/prompt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/repr.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/repr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/segment.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/segment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/status.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/syntax.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/syntax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/table.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/traceback.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/traceback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/rich/tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/tenacity/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/tenacity/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/truststore/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/truststore/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/truststore/_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/truststore/_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/truststore/_macos.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/truststore/_macos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/truststore/_windows.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/truststore/_windows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/typing_extensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/typing_extensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/urllib3/_collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/urllib3/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/urllib3/_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/urllib3/connectionpool.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/urllib3/poolmanager.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/urllib3/poolmanager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/vendor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/vendor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/webencodings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/webencodings/labels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/webencodings/mklabels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/webencodings/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastapi/fastapienv/lib/python3.12/site-packages/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v99-PythonRefresher/-calculator suma bonuri.py" beforeDir="false" afterPath="$PROJECT_DIR$/v99-PythonRefresher/-calculator suma bonuri.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +711,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -48,6 +745,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.-calculator suma bonuri.executor": "Run",
     "Python.BooleanAndOperators.executor": "Run",
     "Python.ChatAssistant-v01.executor": "Run",
     "Python.ChatAssistant-v02.executor": "Run",
@@ -62,9 +761,13 @@
     "Python.SetsAndTuples.executor": "Run",
     "Python.assets.executor": "Run",
     "Python.calc.executor": "Run",
+    "Python.chatbot01.executor": "Run",
     "Python.homework_grades.executor": "Run",
+    "Python.main (1).executor": "Run",
     "Python.main.executor": "Run",
+    "Python.main01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/catalin/PycharmProjects/Licenta2024/fastapi",
     "node.js.detected.package.eslint": "true",
@@ -80,12 +783,13 @@
       <recent name="$PROJECT_DIR$/fastapi" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/openai/templates" />
       <recent name="$PROJECT_DIR$/v99-PythonRefresher/" />
       <recent name="$PROJECT_DIR$/v01" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.assets">
+  <component name="RunManager" selected="Python.main01">
     <configuration name="-calculator suma bonuri" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Licenta2024" />
       <option name="ENV_FILES" value="" />
@@ -101,29 +805,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v99-PythonRefresher/-calculator suma bonuri.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="FunctionAssignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Licenta2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/v99-PythonRefresher/Functions Assignment" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v99-PythonRefresher/Functions Assignment/FunctionAssignment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,29 +836,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_grades" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Licenta2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/v99-PythonRefresher/Imports" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v99-PythonRefresher/Imports/homework_grades.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Licenta2024" />
       <option name="ENV_FILES" value="" />
@@ -201,13 +859,59 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Licenta2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/openai" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/openai/main01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Licenta2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/openai" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/openai/main02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.assets" />
+        <item itemvalue="Python.main01" />
+        <item itemvalue="Python.main02" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.-calculator suma bonuri" />
-        <item itemvalue="Python.homework_grades" />
-        <item itemvalue="Python.FunctionAssignment" />
+        <item itemvalue="Python.assets" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +932,8 @@
       <option name="presentableId" value="Default" />
       <updated>1717949549449</updated>
       <workItem from="1717949551385" duration="5765000" />
+      <workItem from="1719770051915" duration="166000" />
+      <workItem from="1720445405675" duration="6145000" />
     </task>
     <task id="LOCAL-00001" summary="implementat preluare API din .env, mutat fisierele din assets">
       <option name="closed" value="true" />
@@ -285,7 +991,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719517158387</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update 27.06.2024, 22:30 updates assets">
+      <option name="closed" value="true" />
+      <created>1719517479699</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719517479699</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update 27.06.2024, 22:30 updates assets">
+      <option name="closed" value="true" />
+      <created>1719517495384</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719517495384</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,22 +1041,25 @@
     <SUITE FILE_PATH="coverage/Licenta2024$LoopsAssignment.coverage" NAME="LoopsAssignment Coverage Results" MODIFIED="1719481167817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Loops Assignment" />
     <SUITE FILE_PATH="coverage/Licenta2024$Backend.coverage" NAME="Backend Coverage Results" MODIFIED="1719322803743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v02" />
     <SUITE FILE_PATH="coverage/Licenta2024$ChatAssistant_v01.coverage" NAME="ChatAssistant-v01 Coverage Results" MODIFIED="1718004738239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v01" />
+    <SUITE FILE_PATH="coverage/Licenta2024$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1720894758611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/openai" />
     <SUITE FILE_PATH="coverage/Licenta2024$ForAndWhileLoops.coverage" NAME="ForAndWhileLoops Coverage Results" MODIFIED="1719480832297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Loops" />
     <SUITE FILE_PATH="coverage/Licenta2024$homework_grades.coverage" NAME="homework_grades Coverage Results" MODIFIED="1719489401468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Imports" />
     <SUITE FILE_PATH="coverage/Licenta2024$UserInput.coverage" NAME="UserInput Coverage Results" MODIFIED="1719411480849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/User Input" />
+    <SUITE FILE_PATH="coverage/Licenta2024$_calculator_suma_bonuri.coverage" NAME="-calculator suma bonuri Coverage Results" MODIFIED="1719770114470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/OOP/1. OOP" />
     <SUITE FILE_PATH="coverage/Licenta2024$calc.coverage" NAME="calc Coverage Results" MODIFIED="1719491237133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/OOP/1. OOP" />
     <SUITE FILE_PATH="coverage/Licenta2024$ChatAssistant_v03.coverage" NAME="ChatAssistant-v03 Coverage Results" MODIFIED="1719323431658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v01" />
-    <SUITE FILE_PATH="coverage/Licenta2024$assets.coverage" NAME="assets Coverage Results" MODIFIED="1719514921829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fastapi" />
+    <SUITE FILE_PATH="coverage/Licenta2024$assets.coverage" NAME="assets Coverage Results" MODIFIED="1719691404977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fastapi" />
     <SUITE FILE_PATH="coverage/Licenta2024$Lists.coverage" NAME="Lists Coverage Results" MODIFIED="1719412103170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Lists" />
     <SUITE FILE_PATH="coverage/Licenta2024$ListsAssignment.coverage" NAME="ListsAssignment Coverage Results" MODIFIED="1719414640043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Lists Assignment" />
     <SUITE FILE_PATH="coverage/Licenta2024$Comments.coverage" NAME="Comments Coverage Results" MODIFIED="1719409522121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Comments" />
+    <SUITE FILE_PATH="coverage/Licenta2024$main01.coverage" NAME="main01 Coverage Results" MODIFIED="1720950357559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/openai" />
     <SUITE FILE_PATH="coverage/Licenta2024$FunctionAssignment.coverage" NAME="FunctionAssignment Coverage Results" MODIFIED="1719488822940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Functions Assignment" />
     <SUITE FILE_PATH="coverage/Licenta2024$Frontend.coverage" NAME="Frontend Coverage Results" MODIFIED="1719322838825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v02" />
     <SUITE FILE_PATH="coverage/Licenta2024$app.coverage" NAME="app Coverage Results" MODIFIED="1719322758443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v02" />
     <SUITE FILE_PATH="coverage/Licenta2024$refresh.coverage" NAME="refresh Coverage Results" MODIFIED="1719335123140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v03/playground" />
     <SUITE FILE_PATH="coverage/Licenta2024$ChatAssistant_v02.coverage" NAME="ChatAssistant-v02 Coverage Results" MODIFIED="1719323719021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v01" />
     <SUITE FILE_PATH="coverage/Licenta2024$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1719482538679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Dictionaries" />
-    <SUITE FILE_PATH="coverage/Licenta2024$main.coverage" NAME="main Coverage Results" MODIFIED="1719498581068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/OOP/1. OOP" />
+    <SUITE FILE_PATH="coverage/Licenta2024$main.coverage" NAME="main Coverage Results" MODIFIED="1720893877848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/OOP/1. OOP" />
     <SUITE FILE_PATH="coverage/Licenta2024$StringFormatting.coverage" NAME="StringFormatting Coverage Results" MODIFIED="1719410085735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/String Formatting" />
     <SUITE FILE_PATH="coverage/Licenta2024$SetsAndTuples.coverage" NAME="SetsAndTuples Coverage Results" MODIFIED="1719413710777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Sets and Tuples" />
     <SUITE FILE_PATH="coverage/Licenta2024$BooleanAndOperators.coverage" NAME="BooleanAndOperators Coverage Results" MODIFIED="1719469830980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v99-PythonRefresher/Boolean and Operators" />
