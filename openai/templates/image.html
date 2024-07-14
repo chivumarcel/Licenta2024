@@ -1,0 +1,28 @@
+{% include "layout.html" %}
+
+<div class="container mt-5">
+    <h3>
+        Salut! Cu ce va pot fi de folos astazi? Va pot raspunde cu text si imagini
+    </h3>
+    <form action="/image" method="POST">
+        <div>
+            <textarea class="form-control" placeholder="Scrieti aici mesajul dvs" name="user_input" rows="3"></textarea>
+            <button class="btn btn-primary mt-1" type="submit">Trimite</button>
+        </div>
+    </form>
+
+    <div>
+        <div class="card text-center mt-3">
+            <div class="card-header">
+                Istoric conversatie (generare imagini):
+            </div>
+            <div class="card-body text-start"> <!-- adaugat clasa text-start pentru aliniere la stanga -->
+                <div>
+                    <img src="{{image_url}}" alt=" Aici se va afisa imaginea dorita, dupa introducerea prompt-ului">
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
